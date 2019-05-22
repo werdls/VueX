@@ -7,7 +7,11 @@ user1 : {
 	registerTime: '注册时间 2019-03-10 12:10:19'
 }
 ```
+运行方式：
+	npm run serve
 
+需要同时运行
+	https：//werdls.github.io/Axios  中的文件夹
 ## vue-axios
 ```txt
 官方 https://www.npmjs.com/package/vue-axios
